@@ -56,7 +56,7 @@ function Sbox(props){
 
 
     return(
-    <div style={{ width:'25%', margin:'3%', placeContent:'center', minWidth:'400px', borderRadius:10}}>
+    <div style={{ width:'20%', margin:'1.5%', placeContent:'center', minWidth:'400px', borderRadius:10}}>
         <h1 ref={reff} style={{color:'#53b7ff', textAlign:'center',borderRadius:10,paddingLeft:20}}>{props.head}</h1>
         <motion.div style={{display:'flex'}} whileHover={{scale:1.2}}>
         <p style={{textAlign:'justify', width:'50%', minWidth:200,borderRadius:10,paddingLeft:20}}>{props.cont}</p>
