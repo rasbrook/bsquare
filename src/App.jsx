@@ -63,7 +63,10 @@ function App() {
     </div>
       )
       :
-      <div><Upper />
+      <div>
+        
+        
+        <Upper />
       <Title />
       <motion.h1 initial={{
         x:-400,
