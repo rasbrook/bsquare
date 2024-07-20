@@ -16,7 +16,7 @@ function Foot(){
                      businesses and individuals. As a leading software development company, we specialize in
                       designing, developing, and maintaining custom applications, frameworks, and tools. Our
                        skilled team collaborates closely with clients to understand unique requirements, 
-                       ensuring seamless user experiences. Choose B Cube for tailored software solutions that
+                       ensuring seamless user experiences. Choose B Square for tailored software solutions that
                         meet your specific needs. Let’s build something great together!
 
 
@@ -37,7 +37,7 @@ function Foot(){
         Phone No: <motion.a href= 'tel:+251952495454' whileHover={{color:'#53b7ff',cursor:"pointer"}}>0952495454</motion.a>
         </motion.h4>
         <motion.h4>
-        Email: <motion.a whileHover={{color:'#53b7ff',cursor:"pointer"}}>bcube@gmail.com</motion.a>
+        Email: <motion.a whileHover={{color:'#53b7ff',cursor:"pointer"}}>bsquare@solution.com</motion.a>
        
         </motion.h4>
         <motion.h4>

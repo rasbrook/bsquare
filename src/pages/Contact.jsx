@@ -49,7 +49,7 @@ function Contact(){
          
         <div id='globe'>
         <h1 style={{marginLeft:'35%', marginBottom:'-10%', marginTop:'20%', color:'#53b7ff', fontSize:'2vw'}}>Click The Globe for Location</h1>
-        <a>
+        <a href="https://www.google.com.et/maps/place/No1+Fitness+and+Spa/@9.0064581,38.8659268,19.57z/data=!4m6!3m5!1s0x164b85bf6c771247:0xebcee2f0668780ea!8m2!3d9.0064667!4d38.8665151!16s%2Fg%2F11vw_cb8js?entry=ttu">
         <Spline scene="https://prod.spline.design/12ZFJrTlhbbWx3tz/scene.splinecode" />
         </a>
         </div>

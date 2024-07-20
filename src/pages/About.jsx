@@ -135,7 +135,10 @@ function About(){
     return(<div>
         <Upper />
         <motion.h1 ref={aboutref} style={{placeContent:"center", textAlign:"center", fontSize:"8vw", color:'#53b7ff'}}> About Us</motion.h1>
-        <p className="welcome" style={{placeContent:"center", textAlign:"justify" , width:'95%', marginLeft:'2.5%'}}>Welcome to B Cube Software Solutions! As a forward-thinking software development company founded by Biruk Beshaneh, we’re passionate about creating transformative solutions for businesses across industries. Our mission is to empower our clients by leveraging cutting-edge technology. What sets us apart? Our team of seasoned developers, led by Biruk, combines technical prowess with a customer-centric mindset. We don’t just write code; we craft solutions that drive real-world impact.</p>
+        <p className="welcome" style={{placeContent:"center", textAlign:"justify" , width:'95%', marginLeft:'2.5%'}}>Welcome to B Squre Software Solutions! As
+             a forward-thinking software development company founded by Biruk Beshaneh, we’re passionate about creating transformative solutions for 
+             businesses across industries. Our mission is to empower our clients by leveraging cutting-edge technology. What sets us apart? Our team of seasoned developers,
+              led by Biruk, combines technical prowess with a customer-centric mindset. We don’t just write code; we craft solutions that drive real-world impact.</p>
      
         <motion.h1 ref={reff} id='our' style={{placeContent:"center", textAlign:"center", fontSize:"6vw", color:'#53b7ff', width:'90%'}} >Our story</motion.h1>
 
@@ -158,7 +161,8 @@ Biruk had scraped together meager savings from odd jobs and late-night freelanci
             <div>
             <motion.h3 style={{placeContent:"center", textAlign:"center", fontSize:"4vw", color:'#53b7ff'}} whileHover={{color:randcolor}}>
             The Code Wars</motion.h3>
-        <motion.p style={{placeContent:"center", textAlign:"justify"}}>The early days were a blur of caffeine-fueled coding marathons. Biruk juggled multiple projects
+        <motion.p style={{placeContent:"center", textAlign:"justify"}}>The early days were a blur of caffeine-fueled coding marathons. 
+            Biruk juggled multiple projects
              simultaneously, often working through the night. His fingers danced across the keyboard, crafting
               elegant algorithms, debugging mercilessly, and battling server crashes. The coffee stains on his
                worn-out hoodie bore witness to sleepless nights and relentless determination.</motion.p>
@@ -172,7 +176,10 @@ Biruk had scraped together meager savings from odd jobs and late-night freelanci
             <motion.h3 style={{placeContent:"center", textAlign:"center", fontSize:"4vw", color:'#53b7ff'}} whileHover={{color:randcolor}}>
             The First Breakthrough</motion.h3>
         <motion.p style={{placeContent:"center", textAlign:"justify" }}>
-        Then came the breakthrough—a small contract from a local business. Biruk’s heart raced as he signed the dotted line. The project involved building an inventory management system. He worked tirelessly, fueled by adrenaline and the promise of validation. When the system went live, the client’s joy was palpable. Biruk’s software had streamlined their operations, saving time and money.</motion.p>
+        Then came the breakthrough—a small contract from a local business. Biruk’s heart raced as he signed the dotted
+         line. The project involved building an inventory management system. He worked tirelessly, fueled by adrenaline
+          and the promise of validation. When the system went live, the client’s joy was palpable. Biruk’s software had
+           streamlined their operations, saving time and money.</motion.p>
             </div>
             <img src={brea}  />
              
@@ -183,8 +190,11 @@ Biruk had scraped together meager savings from odd jobs and late-night freelanci
             <div>
             <motion.h3 style={{placeContent:"center", textAlign:"center", fontSize:"4vw", color:'#53b7ff'}} whileHover={{color:randcolor}}>
             The Desert of Doubt</motion.h3>
-        <motion.p style={{placeContent:"center", textAlign:"justify"}}>The Desert of Doubt
-        But success was fleeting. The desert of doubt stretched before him. Would clients trust a fledgling company? Could he compete with established players? Biruk’s inbox remained stubbornly empty. Rejections piled up like unread novels. Yet, he persisted. He refined his pitch, networked relentlessly, and attended industry meetups. Slowly, the tide turned.</motion.p>
+        <motion.p style={{placeContent:"center", textAlign:"justify"}}>The Desert of Doubt But success was fleeting.
+             The desert of doubt stretched before him. Would clients trust a fledgling company? Could he compete 
+             with established players? Biruk’s inbox remained stubbornly empty. Rejections piled up like unread 
+             novels. Yet, he persisted. He refined his pitch, networked relentlessly, and attended industry meetups.
+              Slowly, the tide turned.</motion.p>
             </div>
              
              
@@ -195,8 +205,10 @@ Biruk had scraped together meager savings from odd jobs and late-night freelanci
             <motion.h3 style={{placeContent:"center", textAlign:"center", fontSize:"4vw", color:'#53b7ff'}} whileHover={{color:randcolor}}>
             The Team Takes Shape</motion.h3>
         <motion.p style={{placeContent:"center", textAlign:"justify"}}>
-       
-Biruk knew he couldn’t do it alone. He scoured LinkedIn, seeking kindred souls. Alex, the frontend wizard, joined first. His eye for design and obsession with responsive layouts elevated their projects. Maya, the backend sorceress, followed—a database whisperer who could optimize queries in her sleep. Jake, the UX magician, completed the trio, turning wireframes into delightful experiences.</motion.p>
+            Biruk knew he couldn’t do it alone. He scoured LinkedIn, seeking kindred souls. liya, the frontend wizard,
+             joined first. His eye for design and obsession with responsive layouts elevated their projects. , mahelet
+             the backend sorceress, followed—a database whisperer who could optimize queries in her sleep. Rebira, 
+             the UX magician, completed the trio, turning wireframes into delightful experiences.</motion.p>
             </div>
             <img src={tm}  />
              
@@ -208,9 +220,10 @@ Biruk knew he couldn’t do it alone. He scoured LinkedIn, seeking kindred souls
             <motion.h3 style={{placeContent:"center", textAlign:"center", fontSize:"4vw", color:'#53b7ff'}} whileHover={{color:randcolor}}>
             B Square Legacy</motion.h3>
         <motion.p style={{placeContent:"center", textAlign:"justify"}}>
-Today, as we stand atop the summit, we honor Biruk Beshaneh—the visionary who dared to dream. His struggles forged our resilience, his late-night coding sessions lit our path, and his unwavering belief fueled our ascent. We continue to code the future, one elegant solution at a time.
-
-Feel free to explore our website and learn more about our team, our projects, and our commitment to excellence. .</motion.p>
+Today, as we stand atop the summit, we honor Biruk Beshaneh—the visionary who dared to dream. His struggles forged
+ our resilience, his late-night coding sessions lit our path, and his unwavering belief fueled our ascent. We continue
+  to code the future, one elegant solution at a time.
+Feel free to explore our website and learn more about our team, our projects, and our commitment to excellence.</motion.p>
             </div>
              
              
