@@ -42,8 +42,8 @@ function Foot(){
         </motion.h4>
         <motion.h4>
         Location: <motion.a 
-        href="https://www.google.com.et/maps/place/No1+Fitness+and+Spa/@9.0064581,38.8659268,19.57z/data=!4m6!3m5!1s0x164b85bf6c771247:0xebcee2f0668780ea!8m2!3d9.0064667!4d38.8665151!16s%2Fg%2F11vw_cb8js?entry=ttu"
-        whileHover={{color:'#53b7ff', cursor:"pointer"}}>Addis abeba, semit 72</motion.a>
+        href="https://www.google.com/maps/place//@8.9483596,38.7308214,21z/data=!4m8!1m7!3m6!1s0x164b8168f74c9bc5:0x549ecc5f79f347f1!2zTGVidSBNZWJyYXQgSGFpbGUgfCDhiIjhiaEg4YiY4Yml4Yir4Ym1IOGIg-GLreGIjQ!8m2!3d8.9484418!4d38.7351074!16s%2Fg%2F11l65_c01v?entry=ttu"
+        whileHover={{color:'#53b7ff', cursor:"pointer"}}>Addis abeba, Lebu mebrat hail</motion.a>
         </motion.h4>
         </div>
 

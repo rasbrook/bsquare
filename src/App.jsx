@@ -10,11 +10,6 @@ import dev from './assets/dev.png'
 import deploy from './assets/deploy.png'
 import test from './assets/test.png'
 import toolls from './assets/tools.png'
-import Ui from './assets/ui.png'
-import front from './assets/front.png'
-import back from './assets/back.png'
-import ai from './assets/aiii.png'
-import last from './assets/last.png'
 import { useRef, useEffect, useState } from "react"
 import Tools from "./tools"
 import Foot from "./footer"
