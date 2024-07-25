@@ -20,7 +20,7 @@ function Prolink(props){
         <p style={{textAlign:'justify'}}>{props.solution}</p>
         </div>
         </div>
-        <a href={props.link}><img style={{width:'40vw'}} src={props.sorce} /></a>
+        <a href={props.link} target="_blank"><img style={{width:'40vw'}} src={props.sorce} /></a>
     </div>
     </div>)
 }
