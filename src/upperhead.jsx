@@ -63,9 +63,11 @@ function Upper(){
 
 
      <motion.h1 initial={{y:30}} animate={{y:0}} transition={{duration:0.5}} whileHover={a_hover}><Link style={{textDecoration:"none", color:'inherit'}} to={'/'}>Home</Link></motion.h1>
-     <motion.h1 initial={{y:30}} animate={{y:0}} transition={{duration:0.5}} whileHover={a_hover}><Link style={{textDecoration:"none", color:'inherit'}} to={'/about'}>About</Link></motion.h1>
      <motion.h1 initial={{y:30}} animate={{y:0}} transition={{duration:0.5}} whileHover={a_hover}><Link style={{textDecoration:"none", color:'inherit'}} to={'/service'}>Service</Link></motion.h1>
+     <motion.h1 initial={{y:30}} animate={{y:0}} transition={{duration:0.5}} whileHover={a_hover}><Link style={{textDecoration:"none", color:'inherit'}} to={'/project'}>Projects</Link></motion.h1>
+     <motion.h1 initial={{y:30}} animate={{y:0}} transition={{duration:0.5}} whileHover={a_hover}><Link style={{textDecoration:"none", color:'inherit'}} to={'/about'}>About</Link></motion.h1>
      <motion.h1 initial={{y:30}} animate={{y:0}} transition={{duration:0.5}} whileHover={a_hover}><Link style={{textDecoration:"none", color:'inherit'}} to={'/contact'}>Contact</Link></motion.h1>
+    
 
 
      </motion.div>

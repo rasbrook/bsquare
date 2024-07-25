@@ -5,7 +5,7 @@ import gsap from "gsap"
 
 function Links(){
     
-    const a_hover={scale:1,cursor:'pointer', opacity:1}
+    const a_hover={scale:1,cursor:'pointer', opacity:1, fontSize:'1.5em'}
     const r=useRef()
 
 
@@ -37,9 +37,11 @@ function Links(){
     return(<div ref={r}>
         <ol  className="links" style={{opacity:1}}>
             <Link to={'/'} ref={r}  style={a_hover}className="link" >Home</Link>
-            <Link to={'/service'} ref={r} className="link">Service</Link>
-            <Link to={'/About'} ref={r} className="link">About</Link>
-            <Link to={'/contact'} ref={r} className="link">Contact</Link>
+            <Link to={'/service'} style={a_hover} ref={r} className="link">Service</Link>
+            <Link to={'/project'} style={a_hover} ref={r} className="link">Projects</Link>
+            <Link to={'/About'} style={a_hover} ref={r} className="link">About</Link>
+            <Link to={'/contact'} style={a_hover} ref={r} className="link">Contact</Link>
+            
         </ol>
     </div>)
 }

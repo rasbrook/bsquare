@@ -267,11 +267,10 @@ form>div>input{
         height:30;
         width:200;
         border-radius:5;
-        
         border:'none';
-        background-color:'#00fbff6d';
         color:'inherit';
         overflow-x:'hidden';
+        background-color: #00fbffa3;
 
     }
     
@@ -299,6 +298,7 @@ form>div>input{
     }
     #globe{
         display: none;
+       
         
         
         
@@ -313,7 +313,7 @@ form>div>input{
         overflow: hidden;
     }
     .foot{
-        width: 100%;
+        width: 87vw;
         display: flex; 
         flex-wrap: wrap;
         height: fit-content;
@@ -324,7 +324,7 @@ form>div>input{
       }
     #cont{
         position: relative;
-        left:40vw;
+        left:10vw;
         overflow-x: hidden;
        
     }

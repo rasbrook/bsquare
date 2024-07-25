@@ -4,6 +4,7 @@ import App from './App.jsx'
 import About from './pages/About.jsx'
 import Contact from './pages/Contact.jsx'
 import Service from './pages/Sevice.jsx'
+import Project from './pages/project.jsx'
 
 
 import './index.css'
@@ -29,6 +30,12 @@ const main=createBrowserRouter([
   {
     path:'/contact',
     element:<Contact />
+
+  }
+  ,
+  {
+    path:'/project',
+    element:<Project />
 
   }
  
