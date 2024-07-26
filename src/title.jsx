@@ -112,7 +112,8 @@ function Title(){
         
 
         }}
-        animate={{opacity:0.6, 
+        animate={{
+          opacity:0.6, 
           repeat:Infinity, 
           repeatType:'mirror'}}
         
@@ -133,7 +134,7 @@ function Title(){
           
 
         }}
-        transition={{duration:1, ease:backOut,}}><h1>Call Now</h1></motion.div>
+        transition={{delay:0.1,duration:1, ease:backOut,}}><h1>Call Now</h1></motion.div>
       </a>
       
     </div>)

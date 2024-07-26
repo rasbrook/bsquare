@@ -59,7 +59,7 @@ function Foot(){
         
         
         <div style={{backgroundColor:'#4b4b4b', width:'102%', position:'relative',minWidth:'2000px',
-             top:'350px', height:'40px', left:-775, justifyContent:'center', overflow:'hidden'}}>
+             top:'400px', height:'40px', left:-775, justifyContent:'center', overflow:'hidden'}}>
             <p style={{fontSize:12, textAlign:'center'}}>
             © 2024 B SQUARE All Rights Reserved
             </p>
