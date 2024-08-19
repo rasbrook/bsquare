@@ -17,10 +17,13 @@ function Prolink(props){
         </div>
         <div style={{display:'flex',flexWrap:'wrap', alignItems:'center', width:'50vw', margin:10}}>
         <h2>Our Solution</h2>
-        <p style={{textAlign:'justify'}}>{props.solution}</p>
+        <p style={{textAlign:'justify'}}>{props.solution}<a
+        target="_blank"  
+        href={props.view}
+        >    View website</a></p>
         </div>
         </div>
-        <a href={props.link} target="_blank"><img style={{width:'40vw'}} src={props.sorce} /></a>
+        <a href={props.link} target="_blank"><img style={{width:'40vw', maxHeight:600}} src={props.sorce} /></a>
     </div>
     </div>)
 }

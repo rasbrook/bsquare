@@ -1,6 +1,7 @@
 import Prolink from "./projectlink"
 import Upper from "../upperhead"
 import Foot from "../footer"
+import Jemo from '../assets/jemologo.png'
 import venarch from '../assets/venarch.png'
 
 function Project(){
@@ -21,8 +22,27 @@ function Project(){
               and plans—to showcase there work. Provide brief descriptions for each project, emphasizing there design
                process and unique features. Include an “About” section introducing them to there potential client
                , qualifications, and design philosophy. Highlight achievements, make contact information easily 
-               accessible, and choose a professional domain name' 
+               accessible, and choose a professional domain name.  ' 
+            view='https://venarch.netlify.app/'
             sorce={venarch}  link='https://venarch.netlify.app/'/>
+            <Prolink title='Gym and Spa Portfolio Websites'  
+            client='Jemo Gym and Spa'
+            objective='Creating a gym and spa portfolio website can attract new clients, build brand awareness, provide
+             essential information, enhance customer experience with online booking and virtual tours, showcase success 
+             stories, promote special offers, engage with clients through blogs, and improve search engine visibility.'
+
+            solution='To create an effective gym and spa portfolio website, We start by analyzing the specific requirements
+             and objectives of the business. we then design an intuitive and visually appealing layout, ensuring easy
+              navigation and clear calls to action. The right technology stack is selected based on the project’s needs, 
+              such as HTML, CSS, JavaScript, React, or WordPress. then implement the design using best coding practices, 
+              focusing on both front-end and back-end development for functionalities like booking systems and user accounts.
+               Engaging content, including text, images, and videos, is created to showcase the services and facilities. 
+               The website is optimized for search engines to improve visibility and attract organic traffic. Thorough testing 
+               is conducted to ensure the site works seamlessly across different devices and browsers. Finally, the website is
+                launched, and ongoing maintenance and updates are provided to keep it running smoothly and securely.' 
+            sorce={Jemo}
+            view='https://jemogym.netlify.app/'  
+            link='https://jemogym.netlify.app/'/>
         </div>
 
         <div style={{textAlign:'center', fontSize:'2.5vw', maxWidth:'90vw', marginTop:'5em'}}>
