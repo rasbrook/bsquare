@@ -60,7 +60,7 @@ function Sbox(props){
         <h1 ref={reff} style={{color:'#53b7ff', textAlign:'center',borderRadius:10,paddingLeft:20}}>{props.head}</h1>
         <motion.div style={{display:'flex'}} whileHover={{scale:1.2}}>
         <p style={{textAlign:'justify', width:'50%', minWidth:200,borderRadius:10,paddingLeft:20}}>{props.cont}</p>
-        <img style={{textAlign:'justify', maxWidth:200,borderRadius:10}} 
+        <img loading='lazy' style={{textAlign:'justify', maxWidth:200,borderRadius:10}} 
         src={props.sorce} />
 
         </motion.div>

@@ -23,7 +23,7 @@ function Prolink(props){
         >    View website</a></p>
         </div>
         </div>
-        <a href={props.link} target="_blank"><img style={{width:'40vw', maxHeight:600}} src={props.sorce} /></a>
+        <a href={props.link} target="_blank"><img loading='lazy' style={{width:'40vw', maxHeight:600}} src={props.sorce} /></a>
     </div>
     </div>)
 }

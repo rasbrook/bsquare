@@ -19,7 +19,8 @@ function Bigl(props){
             <motion.h1>{props.head}</motion.h1>
             <motion.p>{props.cont}</motion.p>
         </motion.div>
-        <motion.img 
+        <motion.img
+        loading='lazy' 
         initial={{x:200}}
         whileInView={{x:0}}
         transition={{duration:1}}
