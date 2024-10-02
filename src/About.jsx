@@ -1,14 +1,14 @@
 import { useEffect, useRef } from "react"
-import Foot from "../footer"
-import Upper from "../upperhead"
+import Foot from "./footer"
+import Upper from "./upperhead"
 import {motion} from 'framer-motion'
 import gsap from "gsap"
-import start from '../assets/start.png'
-import legacy from '../assets/legacy.png'
-import brea from '../assets/break.png'
-import d from '../assets/d.png'
-import tm from '../assets/teamm.png'
-import leg from '../assets/lega.png'
+import start from './assets/start.png'
+import legacy from './assets/legacy.png'
+import brea from './assets/break.png'
+import d from './assets/d.png'
+import tm from './assets/teamm.png'
+import leg from './assets/lega.png'
 
 
 

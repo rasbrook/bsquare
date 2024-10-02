@@ -1,10 +1,10 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
 import App from './App.jsx'
-import About from './pages/About.jsx'
-import Contact from './pages/Contact.jsx'
-import Service from './pages/Sevice.jsx'
-import Project from './pages/project.jsx'
+import About from './About.jsx'
+import Contact from './Contact.jsx'
+import Service from './Sevice.jsx'
+import Project from './project.jsx'
 
 
 import './index.css'

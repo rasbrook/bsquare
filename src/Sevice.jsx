@@ -1,16 +1,16 @@
-import Upper from "../upperhead"
-import Foot from "../footer"
+import Upper from "./upperhead"
+import Foot from "./footer"
 import Sbox from "./servicebox"
-import custom from '../assets/Custom.png'
-import int from '../assets/Integration.png'
-import cloud from '../assets/cloud-services.png'
-import Security from '../assets/Security.png'
-import auto from '../assets/auto.png'
-import mobile from '../assets/mobile.png'
-import legacy from '../assets/legacy.png'
-import analytics from '../assets/analytics.png'
-import ui from '../assets/ui1.png'
-import mantain from '../assets/mantain.png'
+import custom from './assets/Custom.png'
+import int from './assets/Integration.png'
+import cloud from './assets/cloud-services.png'
+import Security from './assets/Security.png'
+import auto from './assets/auto.png'
+import mobile from './assets/mobile.png'
+import legacy from './assets/legacy.png'
+import analytics from './assets/analytics.png'
+import ui from './assets/ui1.png'
+import mantain from './assets/mantain.png'
 
 function Service(){
     return(<div>

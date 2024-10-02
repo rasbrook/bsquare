@@ -1,8 +1,8 @@
 import Prolink from "./projectlink"
-import Upper from "../upperhead"
-import Foot from "../footer"
-import Jemo from '../assets/jemologo.png'
-import venarch from '../assets/venarch.png'
+import Upper from "./upperhead"
+import Foot from "./footer"
+import Jemo from './assets/jemologo.png'
+import venarch from './assets/venarch.png'
 
 function Project(){
     return(<div>
