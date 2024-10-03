@@ -46,7 +46,7 @@ function Foot(){
         <motion.h4>
         Location: <motion.a  
         target="_blank"
-        href="https://www.google.com/maps/place//@8.9483596,38.7308214,21z/data=!4m8!1m7!3m6!1s0x164b8168f74c9bc5:0x549ecc5f79f347f1!2zTGVidSBNZWJyYXQgSGFpbGUgfCDhiIjhiaEg4YiY4Yml4Yir4Ym1IOGIg-GLreGIjQ!8m2!3d8.9484418!4d38.7351074!16s%2Fg%2F11l65_c01v?entry=ttu"
+        href="https://www.google.com/maps/place/b+square+solution/@8.9487169,38.7305918,127m/data=!3m1!1e3!4m14!1m7!3m6!1s0x164b8168f74c9bc5:0x549ecc5f79f347f1!2zTGVidSBNZWJyYXQgSGFpbGUgfCDhiIjhiaEg4YiY4Yml4Yir4Ym1IOGIg-GLreGIjQ!8m2!3d8.9484418!4d38.7351074!16s%2Fg%2F11l65_c01v!3m5!1s0x164b81616cdfaa77:0x64002f9450261c09!8m2!3d8.9486587!4d38.7305079!16s%2Fg%2F11ltrgmyjx?entry=ttu&g_ep=EgoyMDI0MTAwMS4wIKXMDSoASAFQAw%3D%3D"
         whileHover={{color:'#53b7ff', cursor:"pointer"}}>Addis abeba, Lebu mebrat hail</motion.a>
         </motion.h4>
         </div>
