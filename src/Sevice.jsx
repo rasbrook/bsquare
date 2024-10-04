@@ -14,6 +14,7 @@ import mantain from './assets/mantain.png'
 
 function Service(){
     return(<div>
+        
         <Upper />
         <div style={{alignItems:"center", justifyContent:"center", display:'flex', flexWrap:'wrap'}}>
         <Sbox 
