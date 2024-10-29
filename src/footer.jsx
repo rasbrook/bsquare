@@ -40,7 +40,8 @@ function Foot(){
         </motion.h4>
         <motion.h4>
         Email: <motion.a  target="_blank"
-        whileHover={{color:'#53b7ff',cursor:"pointer"}}>bsquare@solution.com</motion.a>
+        href="mailto:beshaneh@gmail.com"
+        whileHover={{color:'#53b7ff',cursor:"pointer"}}>beshaneh@gmail.com</motion.a>
        
         </motion.h4>
         <motion.h4>
